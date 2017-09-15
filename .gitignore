@@ -1,0 +1,5 @@
+# Ignore backup files
+/*.bck
+/*.bak
+# Ignore logo files for now
+/DuckCover_logos.pretty
