@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FINDER-40.51
+D FINDER 40.51, Single Pole Relay, 5mm Pitch, 10A
+K Single Pole Relay
+F http://gfinder.findernet.com//assets/Series/5/S40EN.pdf
+$ENDCMP
+#
+$CMP Schrack-RY10024
+D Schrack RY10024, SPDT Relay, 8A
+K SPDT Relay
+$ENDCMP
+#
+$CMP Takamisawa-12STBU-5
+D Schrack RY10024, SPDT Relay, 8A
+K SPDT Relay
+$ENDCMP
+#
+#End Doc Library

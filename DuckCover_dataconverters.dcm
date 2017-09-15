@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP3421A?T-E/CH
+D 18-bit I2C Delta Sigma ADC
+K ADC 
+F adc/MCP3421.pdf
+$ENDCMP
+#
+$CMP TDA1543
+D Dual 16-bit DAC (economy version, I2S input format)
+K DAC I2S
+F dac/TDA1543.pdf
+$ENDCMP
+#
+#End Doc Library

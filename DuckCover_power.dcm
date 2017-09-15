@@ -1,0 +1,170 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ILD6070
+D 60 V / 0.7 A High Efficiency Step-Down LED Driver IC
+K LED driver buck
+$ENDCMP
+#
+$CMP LM2734XMK
+D 1A Step-Down 1.6MHz DC-DC Regulator 
+K DC-DC regulator
+$ENDCMP
+#
+$CMP LM2734YMK
+D 1A Step-Down 550kHz DC-DC Regulator 
+K DC-DC regulator
+$ENDCMP
+#
+$CMP LM7806ACT
+D Positive 1A 35V Linear Regulator, Fixed Output 6V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7806CT
+D Positive 1A 35V Linear Regulator, Fixed Output 6V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7808ACT
+D Positive 1A 35V Linear Regulator, Fixed Output 8V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7808CT
+D Positive 1A 35V Linear Regulator, Fixed Output 8V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7809ACT
+D Positive 1A 35V Linear Regulator, Fixed Output 9V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7809CT
+D Positive 1A 35V Linear Regulator, Fixed Output 9V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7810ACT
+D Positive 1A 35V Linear Regulator, Fixed Output 10V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7810CT
+D Positive 1A 35V Linear Regulator, Fixed Output 10V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7812ACT
+D Positive 1A 35V Linear Regulator, Fixed Output 12V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7812CT
+D Positive 1A 35V Linear Regulator, Fixed Output 12V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7815ACT
+D Positive 1A 35V Linear Regulator, Fixed Output 15V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7815CT
+D Positive 1A 35V Linear Regulator, Fixed Output 15V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7818ACT
+D Positive 1A 35V Linear Regulator, Fixed Output 18V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7818CT
+D Positive 1A 35V Linear Regulator, Fixed Output 18V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7824ACT
+D Positive 1A 35V Linear Regulator, Fixed Output 24V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LM7824CT
+D Positive 1A 35V Linear Regulator, Fixed Output 24V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP LP2951ACMMX-3.0
+D LDO regulator
+K LDO regulator
+$ENDCMP
+#
+$CMP LTC4002ES8-4.2
+D Standalone Li-Ion Switch Mode Battery Charger
+K Li-Ion battery charger 
+$ENDCMP
+#
+$CMP MD3PN/305
+D High Voltage Module
+K HV high-voltage spellman
+$ENDCMP
+#
+$CMP MM0.5N1.5/24/S
+D High Voltage Module
+K HV high-voltage spellman
+$ENDCMP
+#
+$CMP MM1N1.5/24/S
+D High Voltage Module
+K HV high-voltage spellman
+$ENDCMP
+#
+$CMP MM2N1.5/24/S
+D High Voltage Module
+K HV high-voltage spellman
+$ENDCMP
+#
+$CMP MM3P1.5/124
+D High Voltage Module
+K HV high-voltage spellman
+$ENDCMP
+#
+$CMP SG7808CT
+D Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP TDA1024
+D Mains Zero-Cross Triac Triggering Circuit
+K triac zerocross mains
+$ENDCMP
+#
+$CMP TEM2-0512
+D High Voltage Module
+K HV high-voltage spellman
+$ENDCMP
+#
+$CMP TPS562210DDFT
+D 2A Step-Down 650kHz DC-DC Regulator 
+K DC-DC regulator
+$ENDCMP
+#
+#End Doc Library

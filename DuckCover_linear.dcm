@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT1716CS5
+D Micropower Precision Rail-to-Rail Comparator, Over-the-Top, 44V, SOT-23-5
+K comparator
+F http://cds.linear.com/docs/en/datasheet/1716fa.pdf
+$ENDCMP
+#
+$CMP LTC6242*GN
+D Quad Op amp.
+K AmpliOp
+F op_amps/lm324.pdf
+$ENDCMP
+#
+$CMP MCP6V31
+D 1.8V to 5.5V, 23 μA, 300 kHz RRIO Zero-Drift CMOS Opamp, SOT-23-5
+K op amp opamp zero-drift
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005127B.pdf
+$ENDCMP
+#
+#End Doc Library
